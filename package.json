@@ -1,0 +1,38 @@
+{
+  "name": "SunmiPosPrinter",
+  "version": "0.0.1-dev",
+  "description": "A cordova plugin for Sunmi POS printer.",
+  "cordova": {
+    "id": "cordova-plugin-sunmi",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heitorherzog/cordova-plugin-sunmi.git"
+  },
+  "keywords": [
+    "cordova",
+    "bluetooth",
+    "printer",
+    "pos",
+    "text",
+    "barcode",
+    "image",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Heitor Helmer Herzog",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/heitorherzog/cordova-plugin-sunmi/issues"
+  },
+  "homepage": "https://github.com/heitorherzog/cordova-plugin-sunmi#readme"
+}
